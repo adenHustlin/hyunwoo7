@@ -1,5 +1,5 @@
-* 👋 Hi, I’m hyun woo Lee aka soccer god
-* 👀 I’m interested in kubernetes, cloud environment in general
+* 👋 Hi, I’m hyun woo Lee aka Aden, aka soccer god
+* 👀 I’m interested in efficient code structure, cloud environment in general
 * 🌱 I’m currently using nest.js react.js spring boot docker etc..
 * 💞️ I’m looking to collaborate with hot shorty with chill vibe
 * 📫 How to reach me 010-7135-9167
